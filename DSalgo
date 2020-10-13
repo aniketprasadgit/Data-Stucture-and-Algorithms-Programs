@@ -1,8 +1,0 @@
-#https://m.facebook.com/story.php?story_fbid=2714895672163155&id=100009282474866
-# subscribe by code house
-
-// Converting binary into decimal value, to be given into the
-			// array as input
-			int iRow = Integer.parseInt(sRow, 2);
-			int iColumn = Integer.parseInt(sColumn, 2);
-			int x = S[i][(iRow*16) + iColumn];
